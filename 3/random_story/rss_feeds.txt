@@ -1,2 +1,2 @@
-http://rss.slashdot.org/Slashdot/slashdot
-http://dave.smallpict.com/rss.xml
+http://lambda-the-ultimate.org/node/4306
+

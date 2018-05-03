@@ -13,3 +13,4 @@ var color = 'blue';
 })(color);
 
 color = 'green';
+

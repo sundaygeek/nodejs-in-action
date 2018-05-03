@@ -6,4 +6,4 @@ var server = net.createServer(function(socket) {
   });
 });
 
-server.listen(8888);
+server.listen(8000);
